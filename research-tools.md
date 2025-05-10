@@ -3,8 +3,9 @@
 ## 📚 Academic Search Engines
 | Tool | Key Features | Free Tier | Link |
 |------|-------------|-----------|------|
+| [Consensus](https://consensus.app) | Evidence-based answers using research papers, confidence scores | ✅ (20 queries/month) | [Visit](https://consensus.app) |
 | [Semantic Scholar](https://www.semanticscholar.org) | Extracts key findings, highlights influential research | ✅ | [Visit](https://www.semanticscholar.org) |
-| [Elicit](https://elicit.org) | Summarizes papers, extracts data from PDFs | ✅ (Limited) | [Visit](https://elicit.org) |
+| [Elicit](https://elicit.org) | Summarizes papers, extracts data from PDFs | ✅ (5,000 queries/month) | [Visit](https://elicit.org) |
 | [Google Scholar](https://scholar.google.com) | Broad academic search, citation tracking | ✅ | [Visit](https://scholar.google.com) |
 | [Connected Papers](https://www.connectedpapers.com) | Visualizes research connections | ✅ (Basic) | [Visit](https://www.connectedpapers.com) |
 | [OpenAlex](https://openalex.org) | Open catalog of global research | ✅ | [Visit](https://openalex.org) |
@@ -39,9 +40,9 @@
 | [GROBID](https://github.com/kermitt2/grobid) | PDF text extraction | Java/Python | [GitHub](https://github.com/kermitt2/grobid) |
 
 ## 💡 Pro Tips
-1. **Combine Tools**: Use Zotero + Semantic Scholar for citation management
-2. **Alert Systems**: Set up Google Scholar alerts for new papers
-3. **Browser Extensions**: Try [Scholarcy](https://www.scholarcy.com) for instant summaries
-4. **Self-Hosted**: Deploy Open Semantic Search for private document collections
+1. **Workflow**: Start with Consensus for quick answers → Use Elicit for summaries → Dive deep with Semantic Scholar
+2. **Browser Extensions**: Install [Consensus Sidekick](https://consensus.app/sidekick) for instant analysis on any webpage
+3. **Kenyan Research**: Combine these tools with [AJOL](https://www.ajol.info/) for African scholarship
+4. **Self-Hosting**: Deploy GROBID + Haystack for private document analysis
 
-> 🔄 *Last Updated: May 2025* | [Suggest additions](https://github.com/KibzGithub7407/ai-bookmarks/issues) 
+> 🔄 *Last Updated: May 2025* | [Suggest additions](https://github.com/KibzGithub7407/ai-bookmarks/issues)
