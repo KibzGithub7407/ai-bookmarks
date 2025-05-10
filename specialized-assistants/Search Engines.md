@@ -1,6 +1,6 @@
 # Search Engines
 
-## Popular General-Purpose Search Engines:**
+## Popular General-Purpose Search Engines:
 * **Google:** [https://www.google.com/](https://www.google.com/)
 * **Microsoft Bing:** [https://www.bing.com/](https://www.bing.com/)
 * **Yahoo! Search:** [https://search.yahoo.com/](https://search.yahoo.com/)
