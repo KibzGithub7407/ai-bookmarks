@@ -1,6 +1,6 @@
 # 🔍 Search Engines Directory
 
-## 🌐 General-Purpose Search Engines
+## [🌐 General-Purpose Search Engines](🌐%20General-Purpose%20Search%20Engines.md)
 | Search Engine | Region Focus | Link |
 |--------------|-------------|------|
 | Google | Global | [Visit](https://www.google.com/) |
@@ -9,6 +9,7 @@
 | Yandex | Russia/CIS | [Visit](https://yandex.com/) |
 | Baidu | China | [Visit](https://www.baidu.com/) |
 | Naver | South Korea | [Visit](https://www.naver.com/) |
+
 
 ## 🔒 Privacy-Focused Search Engines
 | Search Engine | Key Feature | Link |
