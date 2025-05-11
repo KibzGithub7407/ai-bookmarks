@@ -31,12 +31,12 @@ Created and maintained by [Hassan Natembea Kibiti](https://github.com/KibzGithub
 
 | Directory | Description |
 |-----------|-------------|
-| **AI-Coding-Assistants-Directory/** | Curated AI coding assistants, including general-purpose, open-source, security-focused, and Kenyan developer resources. |
-| **ai-powered-research-reference-tools/** | Tools for academic research, reference management, AI-driven analysis, open repositories, and expert tips. |
-| **ai-video-generators-directory/** | AI video generation tools, categorized by video type, enhancement, repurposing, social media, and top picks. |
-| **search-engines-directory/** | AI-powered search engines: general-purpose, specialized, meta-search, and privacy-focused. |
-| **specialized-assistants/** | AI assistants for specialized tasks, including coding and writing, plus general-purpose options. |
-| **🤖 AI Chatbot Director/** | Comprehensive chatbot directory: general, search-enhanced, specialized, emerging chatbots, and tools. |
+| [**AI-Coding-Assistants-Directory**](https://github.com/KibzGithub7407/ai-bookmarks/tree/elimuhubconsultant/AI-Coding-Assistants-Directory) | Curated AI coding assistants, including general-purpose, open-source, security-focused, and Kenyan developer resources. |
+| [**ai-powered-research-reference-tools/**](https://github.com/KibzGithub7407/ai-bookmarks/tree/elimuhubconsultant/ai-powered-research-reference-tools)| Tools for academic research, reference management, AI-driven analysis, open repositories, and expert tips. |
+| [**ai-video-generators-directory/**](https://github.com/KibzGithub7407/ai-bookmarks/tree/elimuhubconsultant/ai-video-generators-directory) | AI video generation tools, categorized by video type, enhancement, repurposing, social media, and top picks. |
+| [**search-engines-directory/**](https://github.com/KibzGithub7407/ai-bookmarks/tree/elimuhubconsultant/search-engines-directory)| AI-powered search engines: general-purpose, specialized, meta-search, and privacy-focused. |
+| [**specialized-assistants/**](https://github.com/KibzGithub7407/ai-bookmarks/tree/elimuhubconsultant/specialized-assistants)| AI assistants for specialized tasks, including coding and writing, plus general-purpose options. |
+| [**🤖 AI Chatbot Director/**](https://github.com/KibzGithub7407/ai-bookmarks/tree/elimuhubconsultant/%F0%9F%A4%96%20AI%20Chatbot%20Director) | Comprehensive chatbot directory: general, search-enhanced, specialized, emerging chatbots, and tools. |
 
 ---
 
